@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.4.2'
 
 # essential
-gem 'nanoc', '~> 4.7'
+gem 'nanoc', '~> 4.9'
 gem 'nanoc-conref-fs', '~> 0.7'
 gem 'nanoc-redirector', '~> 0.2'
 
